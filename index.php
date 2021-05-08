@@ -139,9 +139,9 @@
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
+                    <a class="btn btn-xl btn-outline-light" href="https://api.whatsapp.com/send?phone=55123456789000&text=Ola%2C%20tenho%20interesse%20em%20comprar!">
                         <i class="fas fa-download mr-2"></i>
-                        Free Download!
+                        Quero comprar!
                     </a>
                 </div>
             </div>
